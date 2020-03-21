@@ -1,4 +1,10 @@
 # week3PasswordGenerator
-Week 3 homework Password Generator
+##Week 3 homework Password Generator
 
-Asks the user how long the user wants the password to be; then ask the user what types of characters the user wants to be in the password; then generate a random password of that length using the chosen character types.
+This app asks the user how long he/she wants the password to be; then asks the user what types of characters he/she wants to be in the password; then generates a random password of that length using the chosen character types.
+
+This is a screen shot of the app:
+
+<img src="/screenPasswordGenerator.png" alt="Screenshot of Password Generator app." />
+
+This [Password Generator] app is available on GitHub Pages at (https://mazdamike.github.io/week3PasswordGenerator/)
